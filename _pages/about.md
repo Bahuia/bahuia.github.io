@@ -16,7 +16,9 @@ I am also concerned with the continual learning capability of the foundation mod
 
 Publications
 ======
-([Google Scholar](https://scholar.google.com/citations?user=8ZjIHyEAAAAJ&hl=zh-CN&oi=ao))
+
+First Author
+------
 
 * [2024] **DoG-Instruct: Towards Premium Instruction-Tuning Data via Text-Grounded Instruction Wrapping**
 
