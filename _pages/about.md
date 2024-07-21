@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Yongrui Chen"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-About Me
-======
 
 I am currently a postdoctoral fellow at [the School of Computer Science and Engineering](https://cse.seu.edu.cn) at [Southeast University](https://www.seu.edu.cn). I earned both my PhD and master's degrees in Software Engineering from Southeast University. My undergraduate degree in Internet of Things Engineering was obtained from [Northeastern University](https://www.neu.edu.cn).
 
