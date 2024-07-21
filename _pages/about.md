@@ -1,18 +1,32 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-# Yongrui Chen
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Yongrui Chen
 ======
+
+About Me
+======
+
+I am currently a postdoctoral fellow at [the School of Computer Science and Engineering](https://cse.seu.edu.cn) at [Southeast University](https://www.seu.edu.cn). I earned both my PhD and master's degrees in Software Engineering from Southeast University. My undergraduate degree in Internet of Things Engineering was obtained from [Northeastern University](https://www.neu.edu.cn).
+
+I am broadly interested in developing artificial intelligence, specifically focusing on integrating structured or semi-structured knowledge into foundation models like large language models (LLMs) to enhance their performance in question answering and other more complex tasks. 
+I am also concerned with the continual learning capability of the foundation model, to adapt and evolve over time. This requires mechanisms to update its knowledge base in response to new knowledge, trends, and changes in the environment it operates within.
+
+
+Publications
+======
+([Google Scholar](https://scholar.google.com/citations?user=8ZjIHyEAAAAJ&hl=zh-CN&oi=ao))
+
+* [2024] **DoG-Instruct: Towards Premium Instruction-Tuning Data via Text-Grounded Instruction Wrapping** 
+    
+    **Yongrui Chen**, Haiyun Jiang, Xinting Huang, Shuming Shi, Guilin Qi
+    
+    In the Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL' 24) [[paper](https://aclanthology.org/2024.naacl-long.230.pdf)][[code](https://github.com/Bahuia/Dog-Instruct)]
+* [2023] **Outlining and Filling: Hierarchical Query Graph Generation for Answering Complex Questions Over Knowledge Graphs** 
+    
+    **Yongrui Chen**, Huiying Li, Guilin Qi, Tianxing Wu, Tenggou Wang
+    
+    In IEEE Transactions on Knowledge and Data Engineering (TKDE) [[paper](https://ieeexplore.ieee.org/abstract/document/9895199)][[code](https://github.com/Bahuia/HGNet)]
+
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
