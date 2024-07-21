@@ -25,8 +25,8 @@ Publications
 
 * [2023] **Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing**
 
-    **Yongrui Chen*** , Shenyu Zhang*, Guilin Qi, Xinnan Guo.
-    In the Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS'23) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/398b00a05b847ac65eb98c8e5e865fe8-Paper-Conference.pdf)][[code](https://github.com/Bahuia/C3)] (*: Equal Contribution)
+    **Yongrui Chen**\* , Shenyu Zhang\*, Guilin Qi, Xinnan Guo.
+    In the Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS'23) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/398b00a05b847ac65eb98c8e5e865fe8-Paper-Conference.pdf)][[code](https://github.com/Bahuia/C3)] (\*: Equal Contribution)
 
 * [2023] **Learn from yesterday: A semi-supervised continual learning method for supervision-limited text-to-sql task streams**
 
