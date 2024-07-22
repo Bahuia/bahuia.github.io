@@ -59,27 +59,27 @@ First Author
 * [2023] **Outlining and Filling: Hierarchical Query Graph Generation for Answering Complex Questions Over Knowledge Graphs**
 
     **Yongrui Chen**, Huiying Li, Guilin Qi, Tianxing Wu, Tenggou Wang.
-    In IEEE Transactions on Knowledge and Data Engineering (TKDE) [[paper](https://ieeexplore.ieee.org/abstract/document/9895199)][[code](https://github.com/Bahuia/HGNet)]
+    In *IEEE Transactions on Knowledge and Data Engineering* (TKDE) [[paper](https://ieeexplore.ieee.org/abstract/document/9895199)][[code](https://github.com/Bahuia/HGNet)]
 
 * [2021] **Leveraging table content for zero-shot text-to-sql with meta-learning**
 
     **Yongrui Chen**, Xinnan Guo, Chaojie Wang, Jian Qiu, Guilin Qi, Meng Wang, Huiying Li.
-    In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'21) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16519)][[code](https://github.com/Bahuia/HGNet)]
+    In *Proceedings of the AAAI Conference on Artificial Intelligence* (AAAI'21) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16519)][[code](https://github.com/Bahuia/HGNet)]
 
 * [2020] **Formal query building with query structure prediction for complex question answering over knowledge base**
 
     **Yongrui Chen**, Huiying Li, Yuncheng Hua, Guilin Qi.
-    In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence. (IJCAI'20) [[paper](https://www.ijcai.org/proceedings/2020/0519.pdf)][[code](https://github.com/Bahuia/AQGNet)]
+    In *Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence* (IJCAI'20) [[paper](https://www.ijcai.org/proceedings/2020/0519.pdf)][[code](https://github.com/Bahuia/AQGNet)]
 
 * [2020] **DAM: Transformer-based relation detection for Question Answering over Knowledge Base**
 
     **Yongrui Chen**, Huiying Li.
-    In Knowledge-Based Systems. (KBS) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120303579)]
+    In *Knowledge-Based Systems* (KBS) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120303579)]
 
 * [2019] **Convolutional neural network-based question answering over knowledge base with type constraint**
 
     **Yongrui Chen**, Huiying Li, Zejian Xu.
-    In Knowledge Graph and Semantic Computing. Knowledge Computing and Language Understanding: Third China Conference. (CCKS'18) [[paper](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_3)]
+    In *Knowledge Graph and Semantic Computing. Knowledge Computing and Language Understanding: Third China Conference* (CCKS'18) [[paper](https://link.springer.com/chapter/10.1007/978-981-13-3146-6_3)]
 
 Co-author
 ------
@@ -87,72 +87,72 @@ Co-author
 * [2024] **Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models**
 
     Jiaqi Li, Qianshan Wei, Chuanyi Zhang, Guilin Qi, Miaozeng Du, **Yongrui Chen**, Sheng Bi. 
-    Preprint. (arXiv) [[paper](https://arxiv.org/pdf/2405.12523)]
+    *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2405.12523)]
 
 * [2024] **HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding**
 
     Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, **Yongrui Chen**, Dehai Min. 
-    Preprint. (arXiv) [[paper](https://arxiv.org/pdf/2403.19723)]
+    *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2403.19723)]
 
 * [2024] **MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation**
 
     Yu Li, Shenyu Zhang, Rui Wu, Xiutian Huang, **Yongrui Chen**, Wenhao Xu, Guilin Qi, Dehai Min. 
-    Preprint. (arXiv) [[paper](https://arxiv.org/pdf/2403.19305)]
+    *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2403.19305)]
 
 * [2024] **DEE: Dual-stage Explainable Evaluation Method for Text Generation**
 
     Shenyu Zhang, Yu Li, Rui Wu, Xiutian Huang, **Yongrui Chen**, Wenhao Xu, Guilin Qi. 
-    Preprint. (arXiv) [[paper](https://arxiv.org/pdf/2403.11509)]
+    *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2403.11509)]
 
 * [2024] **MIKE: A New Benchmark for Fine-grained Multimodal Entity Knowledge Editingn**
 
     Jiaqi Li, Miaozeng Du, Chuanyi Zhang, **Yongrui Chen**, Nan Hu, Guilin Qi, Haiyun Jiang, Siyuan Cheng, Bozhong Tian. 
-    Preprint. (arXiv) [[paper](https://arxiv.org/pdf/2402.14835)]
+    *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2402.14835)]
 
 * [2024] **Event is more valuable than you think: Improving the Similar Legal Case Retrieval via event knowledge**
 
     Yuxin Zhang, Songlin Zhai, Yuan Meng, Sheng Bi, **Yongrui Chen**, Guilin Qi.
-    In Information Processing & Management. (IPM) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S030645732400089X)]
+    In *Information Processing & Management* (IPM) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S030645732400089X)]
 
 * [2023] **Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family**
 
     Yiming Tan, Dehai Min, Yu Li, Wenbo Li, Nan Hu, **Yongrui Chen**, Guilin Qi.
-    In International Semantic Web Conference. (ISWC'23) [[paper](https://arxiv.org/pdf/2303.07992)]
+    In *International Semantic Web Conference* (ISWC'23) [[paper](https://arxiv.org/pdf/2303.07992)]
 
 * [2023] **Three stream based multi-level event contrastive learning for text-video event extraction**
 
     Jiaqi Li, Chuanyi Zhang, Miaozeng Du, Dehai Min, **Yongrui Chen**, Guilin Qi.
-    In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (EMNLP'23) [[paper](https://aclanthology.org/2023.emnlp-main.103.pdf)]
+    In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing* (EMNLP'23) [[paper](https://aclanthology.org/2023.emnlp-main.103.pdf)]
 
 * [2023] **TabPrompt: Graph-based Pre-training and Prompting for Few-shot Table Understanding**
 
     Rihui Jin, Jianan Wang, Wei Tan, **Yongrui Chen**, Guilin Qi, Wang Hao.
-    In Findings of the Association for Computational Linguistics. (EMNLP Findings'23) [[paper](https://aclanthology.org/2023.findings-emnlp.493.pdf)]
+    In *Findings of the Association for Computational Linguistics* (EMNLP Findings'23) [[paper](https://aclanthology.org/2023.findings-emnlp.493.pdf)]
 
 * [2023] **CLRN: A reasoning network for multi-relation question answering over Cross-lingual Knowledge Graphs**
 
     Yiming Tan, Xinyu Zhang, **Yongrui Chen**, Zafar Ali, Yuncheng Hua, Guilin Qi.
-    In Expert Systems with Applications. (ESWA) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742301223X)]
+    In *Expert Systems with Applications* (ESWA) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742301223X)]
 
 * [2023] **MLPQ: A dataset for path question answering over multilingual knowledge graphs**
 
     Yiming Tan, Yongrui Chen, Guilin Qi, Weizhuo Li, Meng Wang.
-    In Big Data Research. (BDR) [[paper](https://www.sciencedirect.com/science/article/pii/S221457962300014X)]
+    In *Big Data Research* (BDR) [[paper](https://www.sciencedirect.com/science/article/pii/S221457962300014X)]
 
 * [2023] **Incorporating domain knowledge graph into multimodal movie genre classification with self-supervised attention and contrastive learning**
 
     Jiaqi Li, Guilin Qi, Chuanyi Zhang, **Yongrui Chen**, Yiming Tan, Chenlong Xia, Ye Tian.
-    In Proceedings of the 31st ACM International Conference on Multimedia. (ACM MM'23) [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612085)]
+    In *Proceedings of the 31st ACM International Conference on Multimedia* (ACM MM'23) [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612085)]
 
 * [2023] **CoMave: Contrastive Pre-training with Multi-scale Masking for Attribute Value Extraction**
 
     Xinnan Guo, Wentao Deng, **Yongrui Chen**, Yang Li, Mengdi Zhou, Guilin Qi, Tianxing Wu, Dong Yang, Liubin Wang, Yong Pan.
-    In Findings of the Association for Computational Linguistics. (ACL Findings'23) [[paper](https://aclanthology.org/2023.findings-acl.373.pdf)]
+    In *Findings of the Association for Computational Linguistics* (ACL Findings'23) [[paper](https://aclanthology.org/2023.findings-acl.373.pdf)]
 
 * [2023] **Improving Few-Shot Text-to-SQL with Meta Self-Training via Column Specificity**
 
     Xinnan Guo, **Yongrui Chen**, Guilin Qi, Tianxing Wu, Hao Xu.
-    In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence. (IJCAI'22) [[paper](https://www.ijcai.org/proceedings/2022/0576.pdf)]
+    In *Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence* (IJCAI'22) [[paper](https://www.ijcai.org/proceedings/2022/0576.pdf)]
 
 Peer Review
 ======
