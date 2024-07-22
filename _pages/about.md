@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in the [School of Computer Science Engineering](https://cse.seu.edu.cn) and at [Southeast University](https://www.seu.edu.cn), where I also completed my PhD and master's degrees in Software Engineering. My undergraduate degree in Internet of Things Engineering was obtained from [Northeastern University](https://www.neu.edu.cn).
+I am a postdoctoral fellow at the [School of Computer Science Engineering](https://cse.seu.edu.cn), [Southeast University](https://www.seu.edu.cn), where I am part of the Cognitive Intelligence Institute (COIN lab) under the supervision of Professor [Guilin Qi](https://cs.seu.edu.cn/_s191/2023/1024/c23024a469541/page.psp). I completed both my PhD and Master's degrees in Software Engineering at Southeast University. Previously, I earned my undergraduate degree in Internet of Things Engineering from [Northeastern University](https://www.neu.edu.cn).
 
 I am broadly interested in developing artificial intelligence, specifically focusing on integrating structured or semi-structured knowledge into foundation models like large language models (LLMs) to enhance their performance in question answering and other more complex tasks.
 I am also concerned with the continual learning capability of the foundation model, to adapt and evolve over time. This requires mechanisms to update its knowledge base in response to new knowledge, trends, and changes in the environment it operates within.
@@ -16,8 +16,10 @@ I am also concerned with the continual learning capability of the foundation mod
 Education
 ======
 
-* Ph.D in Software Engineering, [Southeast University](https://www.seu.edu.cn), 2020.9 ~ 2024.6, Supervisor: Professor [Guilin Qi](https://cs.seu.edu.cn/_s191/2023/1024/c23024a469541/page.psp)
-* M.S. in Software Engineering, [Southeast University](https://www.seu.edu.cn), 2017.9 ~ 2020.6, Supervisor: Associate Professor [Huiying Li](https://cse.seu.edu.cn/2019/0105/c23024a257505/page.htm)
+* Ph.D in Software Engineering, [Southeast University](https://www.seu.edu.cn), 2020.9 ~ 2024.6
+  * Supervisor: Prof. [Guilin Qi](https://cs.seu.edu.cn/_s191/2023/1024/c23024a469541/page.psp)
+* M.S. in Software Engineering, [Southeast University](https://www.seu.edu.cn), 2017.9 ~ 2020.6
+  * Supervisor: Assoc. Prof. [Huiying Li](https://cse.seu.edu.cn/2019/0105/c23024a257505/page.htm)
 * B.S. in Internet of Thing, [Northeastern University](https://www.neu.edu.cn), 2013.9 ~ 2017.6
 
 
@@ -117,11 +119,6 @@ Co-author
     Yiming Tan, Dehai Min, Yu Li, Wenbo Li, Nan Hu, **Yongrui Chen**, Guilin Qi.
     In International Semantic Web Conference. (ISWC'23) [[paper](https://arxiv.org/pdf/2303.07992)]
 
-* [2023] **Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family**
-
-    Yiming Tan, Dehai Min, Yu Li, Wenbo Li, Nan Hu, **Yongrui Chen**, Guilin Qi.
-    In International Semantic Web Conference. (ISWC'23) [[paper](https://arxiv.org/pdf/2303.07992)]
-
 * [2023] **Three stream based multi-level event contrastive learning for text-video event extraction**
 
     Jiaqi Li, Chuanyi Zhang, Miaozeng Du, Dehai Min, **Yongrui Chen**, Guilin Qi.
@@ -157,12 +154,19 @@ Co-author
     Xinnan Guo, **Yongrui Chen**, Guilin Qi, Tianxing Wu, Hao Xu.
     In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence. (IJCAI'22) [[paper](https://www.ijcai.org/proceedings/2022/0576.pdf)]
 
+Reviewer 
+======
+* PC Member of the International Workshop on Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs (VLDB'24 Workshop 2024)
+* PC Member of China Conference on Knowledge Graph and Semantic Computing and International Joint Conference on Knowledge Graphs (CCKS-IJCKG 2024)
+* Subreviewer of the Conference on Information and Knowledge Management (CIKM 2022)
+* Subreviewer of the International Semantic Web Conference (ISWC 2022)
+* Subreviewer of European Conference on Artificial Intelligence (ECAI 2022)
 
 
 Talks
 ======
-* Speaker of the NLP Frontier Forum at the [5th Jiangsu Artificial Intelligence Conference](http://www.jsai.org.cn/jsai) in 2022 [slides]()
-* Speaker of [OpenKG](http://openkg.cn) Seminar in May 2023
+* Speaker of [OpenKG](http://openkg.cn) Seminar in May 2023 [[slides](../files/continual_text2SQL.pdf)]
+* Speaker of the NLP Frontier Forum at the [5th Jiangsu Artificial Intelligence Conference](http://www.jsai.org.cn/jsai) in 2022 [[slides](../files/JSAI_report.pdf)]
 
 
 Honors & Awards
