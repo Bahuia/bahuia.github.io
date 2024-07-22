@@ -154,7 +154,7 @@ Co-author
     Xinnan Guo, **Yongrui Chen**, Guilin Qi, Tianxing Wu, Hao Xu.
     In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence. (IJCAI'22) [[paper](https://www.ijcai.org/proceedings/2022/0576.pdf)]
 
-Reviewer 
+Peer Review
 ======
 * PC Member of the International Workshop on Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs (VLDB'24 Workshop 2024)
 * PC Member of China Conference on Knowledge Graph and Semantic Computing and International Joint Conference on Knowledge Graphs (CCKS-IJCKG 2024)
@@ -185,4 +185,5 @@ Competitions
 * Silver Medal at the 2017 ACM-ICPC Asia Qingdao Regional Contest 
 * Silver Medal at the 2017 CCPC Qinhuangdao Regional Contest
 * Brozen Medal at the 2017 ACM-ICPC East-China Final Contest
+* Brozen Medal at the 2016 ACM-ICPC Asia Dalian Regional Contest 
 * Champion at the 2017 HUAWEI Cup Southeast University Programming Contest
