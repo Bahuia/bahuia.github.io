@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yongrui Chen's Academic Page"
 title_separator          : "-"
-name                     : &name "Yongrui Chen"
+name                     : &name "Yongrui Chen (陈永锐)"
 description              : &description "personal description"
 url                      : https://bahuia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
