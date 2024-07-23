@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yongrui Chen's Academic Page"
 title_separator          : "-"
-name                     : &name "Yongrui Chen (陈永锐)"
+name                     : &name "Yongrui Chen"
 description              : &description "personal description"
 url                      : https://bahuia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "bahuia/bahuia.github.io"
 author:
   # Biographic information
   avatar           : "avatar1.png"
-  name             : "Yongrui Chen"
+  name             : "Yongrui Chen (陈永锐)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow, School of Computer Science and Engineering, Southeast University"
   location         : "Nanjing, China"
