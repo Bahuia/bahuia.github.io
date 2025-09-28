@@ -196,6 +196,8 @@ Talks
 
 Honors & Awards
 ======
+* 2025 National Natural Science Foundation of China Youth Science Research Project
+* 2025 Jiangsu Outstanding Postdoctoral Fellowship Program
 * 2024 Huawei Spark Award
 * 2023 Zhangjiang High-Tech Scholarship
 * 2022 Tencent Scholarship
