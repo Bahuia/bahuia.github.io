@@ -52,6 +52,16 @@ First Author
     **Yongrui Chen**, Yi Huang, Yunchang Liu, Shenyu Zhang, Junhao He, Tongtong Wu, Guilin Qi, Tianxing Wu.
     In *Thirty-seventh Annual Conference on Neural Information Processing Systems* (NeurIPS'25)* (NeurIPS'25) [[paper](https://arxiv.org/pdf/2509.16929)]
 
+* [2025] **Pandora: Leveraging Code-driven Knowledge Transfer for Unified Structured Knowledge Reasoning**
+
+    **Yongrui Chen**, Junhao He, Linbo Fu, Shenyu Zhang, Rihui Jin, Xinbang Dai, Jiaqi Li, Dehai Min, Nan Hu, Yuxin Zhang, Guilin Qi, Yi Huang, Tongtong Wu.
+    *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2508.17905?)]
+
+* [2025] **OneEval: Benchmarking LLM Knowledge-intensive Reasoning over Diverse Knowledge Bases**
+
+    **Yongrui Chen**, Zhiqiang Liu, Jing Yu, Lin Ren, Nan Hu, Xinbang Dai, Jiajun Liu, Jiazhen Kang, Shenyu Zhang, Xinda Wang, Keyan Ding, Pengfei Shen, Haolei Zhu, Hongjie Deng, Yisong Wang, Tongtong Wu, Sheng Bi, Wen Zhang, Tianxing Wu, Qiu Ji, Haofen Wang, Wenliang Chen, Huajun Chen, Guilin Qi.
+    *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2506.12577)]
+
 * [2024] **DoG-Instruct: Towards Premium Instruction-Tuning Data via Text-Grounded Instruction Wrapping**
 
     **Yongrui Chen**, Haiyun Jiang, Xinting Huang, Shuming Shi, Guilin Qi.
