@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the [School of Computer Science Engineering](https://cse.seu.edu.cn), [Southeast University](https://www.seu.edu.cn), where I am part of the Cognitive Intelligence Institute ([COIN lab](https://seu-coin.github.io)) under the supervision of Professor [Guilin Qi](https://cs.seu.edu.cn/_s191/2023/1024/c23024a469541/page.psp). I completed both my PhD and Master's degrees in Software Engineering at Southeast University. Previously, I earned my undergraduate degree in Internet of Things Engineering from [Northeastern University](https://www.neu.edu.cn).
+I am a postdoctoral fellow at the [School of Computer Science Engineering](https://cse.seu.edu.cn), [Southeast University](https://www.seu.edu.cn), where I am part of the Institute of Cognitive Intelligence ([COIN lab](https://seu-coin.github.io)), where I collaborate with Professor [Guilin Qi](https://cs.seu.edu.cn/_s191/2023/1024/c23024a469541/page.psp).
 
 I am broadly interested in developing artificial intelligence, specifically focusing on integrating structured or semi-structured knowledge into foundation models like large language models to enhance their performance in question answering and other more complex tasks.
 I am also concerned with the continual learning capability of the foundation model, to adapt and evolve over time. This requires mechanisms to update its knowledge base in response to new knowledge, trends, and changes in the environment it operates within.
@@ -17,7 +17,7 @@ Work
 ======
 
 * “Zhishan” Postdoc in [School of Computer Science and Engineering](https://cse.seu.edu.cn), [Southeast University](https://www.seu.edu.cn), 2024.9 ~ Present
-
+  * Collaborator: Prof. [Guilin Qi](https://cs.seu.edu.cn/_s191/2023/1024/c23024a469541/page.psp)
 
 Education
 ======
