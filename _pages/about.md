@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the [School of Computer Science Engineering](https://cse.seu.edu.cn), [Southeast University](https://www.seu.edu.cn), where I am part of the Cognitive Intelligence Institute (COIN lab) under the supervision of Professor [Guilin Qi](https://cs.seu.edu.cn/_s191/2023/1024/c23024a469541/page.psp). I completed both my PhD and Master's degrees in Software Engineering at Southeast University. Previously, I earned my undergraduate degree in Internet of Things Engineering from [Northeastern University](https://www.neu.edu.cn).
+I am a postdoctoral fellow at the [School of Computer Science Engineering](https://cse.seu.edu.cn), [Southeast University](https://www.seu.edu.cn), where I am part of the Cognitive Intelligence Institute ([COIN lab](https://seu-coin.github.io)) under the supervision of Professor [Guilin Qi](https://cs.seu.edu.cn/_s191/2023/1024/c23024a469541/page.psp). I completed both my PhD and Master's degrees in Software Engineering at Southeast University. Previously, I earned my undergraduate degree in Internet of Things Engineering from [Northeastern University](https://www.neu.edu.cn).
 
-I am broadly interested in developing artificial intelligence, specifically focusing on integrating structured or semi-structured knowledge into foundation models like large language models (LLMs) to enhance their performance in question answering and other more complex tasks.
+I am broadly interested in developing artificial intelligence, specifically focusing on integrating structured or semi-structured knowledge into foundation models like large language models to enhance their performance in question answering and other more complex tasks.
 I am also concerned with the continual learning capability of the foundation model, to adapt and evolve over time. This requires mechanisms to update its knowledge base in response to new knowledge, trends, and changes in the environment it operates within.
+
+
+Work
+======
+
+* “Zhishan” Postdoc in [School of Computer Science and Engineering](https://cse.seu.edu.cn), [Southeast University](https://www.seu.edu.cn), 2024.9 ~ Present
 
 
 Education
@@ -35,11 +41,16 @@ Internship
   * Write a research paper published at the AAAI 2021 conference.
 
 
-Publications
+Selected Publications
 ======
 
 First Author
 ------
+
+* [2025] **K-DeCore: Facilitating Knowledge Transfer in Continual Structured Knowledge Reasoning via Knowledge Decoupling**
+
+    **Yongrui Chen**, Yi Huang, Yunchang Liu, Shenyu Zhang, Junhao He, Tongtong Wu, Guilin Qi, Tianxing Wu.
+    In *Thirty-seventh Annual Conference on Neural Information Processing Systems* (NeurIPS'25)* (NeurIPS'25) [[paper](https://arxiv.org/pdf/2509.16929)]
 
 * [2024] **DoG-Instruct: Towards Premium Instruction-Tuning Data via Text-Grounded Instruction Wrapping**
 
@@ -49,7 +60,7 @@ First Author
 * [2023] **Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing**
 
     **Yongrui Chen**\* , Shenyu Zhang\*, Guilin Qi, Xinnan Guo.
-    In *Thirty-eighth Annual Conference on Neural Information Processing Systems* (NeurIPS'23) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/398b00a05b847ac65eb98c8e5e865fe8-Paper-Conference.pdf)][[code](https://github.com/Bahuia/C3)] (\*: Equal Contribution)
+    In *Thirty-seventh Annual Conference on Neural Information Processing Systems* (NeurIPS'23) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/398b00a05b847ac65eb98c8e5e865fe8-Paper-Conference.pdf)][[code](https://github.com/Bahuia/C3)] (\*: Equal Contribution)
 
 * [2023] **Learn from yesterday: A semi-supervised continual learning method for supervision-limited text-to-sql task streams**
 
@@ -84,15 +95,23 @@ First Author
 Co-author
 ------
 
+* [2025] **Can LLMs Evaluate Complex Attribution in QA? Automatic Benchmarking using Knowledge Graphs**
+    Nan Hu, Jiaoyan Chen, Yike Wu, Guilin Qi, Hongru Wang, Sheng Bi, **Yongrui Chen**, Tongtong Wu, Jeff Z. Pan. 
+    In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (ACL'25) [[paper](https://aclanthology.org/2025.acl-long.837/)]
+
+* [2025] **Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning in Multimodal Generative Models**
+    Jiaqi Li, Chuanyi Zhang, Miaozeng Du, Hui Zhang, **Yongrui Chen**, Qianshan Wei, Junfeng Fang, Ruipeng Wang, Sheng Bi, Guilin Qi. 
+    In *Findings of the Association for Computational Linguistics* (ACL'25) [[paper](https://aclanthology.org/2025.findings-acl.630/)]
+
+* [2025] **Hegta: Leveraging heterogeneous graph-enhanced large language models for few-shot complex table understanding**
+
+    JRihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, **Yongrui Chen**, Dehai Min, Sheng Bi. 
+    In *Proceedings of the AAAI Conference on Artificial Intelligence* (AAAI'25) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34606/36761)]
+
 * [2024] **Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models**
 
     Jiaqi Li, Qianshan Wei, Chuanyi Zhang, Guilin Qi, Miaozeng Du, **Yongrui Chen**, Sheng Bi. 
     *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2405.12523)]
-
-* [2024] **HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding**
-
-    Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, **Yongrui Chen**, Dehai Min. 
-    *Preprint* (arXiv) [[paper](https://arxiv.org/pdf/2403.19723)]
 
 * [2024] **MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation**
 
@@ -156,6 +175,9 @@ Co-author
 
 Peer Review
 ======
+* Program Committee of the AAAI 2025
+* Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence
+* Reviewer of Transactions on Knowledge Discovery from Data
 * PC Member of the International Workshop on Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs (VLDB'24 Workshop 2024)
 * PC Member of China Conference on Knowledge Graph and Semantic Computing and International Joint Conference on Knowledge Graphs (CCKS-IJCKG 2024)
 * Subreviewer of the Conference on Information and Knowledge Management (CIKM 2022)
@@ -165,8 +187,11 @@ Peer Review
 
 Talks
 ======
-* Speaker of [OpenKG](http://openkg.cn) Seminar in May 2023 [[slides](../files/continual_text2SQL.pdf)]
-* Speaker of the NLP Frontier Forum at the [5th Jiangsu Artificial Intelligence Conference](http://www.jsai.org.cn/jsai) in 2022 [[slides](../files/JSAI_report.pdf)]
+* 【Tutorial】 Unifying Large Language Models and Knowledge Graphs for Question Answering: Recent Advances and Opportunities, EDBT 2024 [[slides](../files/EDBT25_LLMKGQA_Yongrui-Part-3.pdf)]
+* 【Invited Presentation】Collaborative Solutions for Complex Task Reasoning Using Large Models and Knowledge Graphs, Huawei Autonomous Driving Network Technical Forum 2024 [[slides](../files/llm_kg.pdf)]
+* 【Tutorial】 Collaborative Enhancement of Knowledge Graphs and Large Language Models, CCKS-IJCKG 2024 [[slides](../files/llm+kg.pdf)]
+* 【Invited Presentation】Speaker of [OpenKG](http://openkg.cn) Seminar in May 2023 [[slides](../files/continual_text2SQL.pdf)]
+* 【Invited Presentation】Speaker of the NLP Frontier Forum at the [5th Jiangsu Artificial Intelligence Conference](http://www.jsai.org.cn/jsai) in 2022 [[slides](../files/JSAI_report.pdf)]
 
 
 Honors & Awards
