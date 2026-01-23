@@ -31,7 +31,7 @@ Education
 
 Editor
 ======
-* Members of the Youth Editorial Board of [Members of the Youth Editorial Board of The Knowledge Engineering Review](https://maxapress.com/ker)
+* Members of the Youth Editorial Board of [The Knowledge Engineering Review](https://maxapress.com/ker)
 
 Internship
 ======
