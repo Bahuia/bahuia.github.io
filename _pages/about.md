@@ -29,6 +29,10 @@ Education
 * B.S. in Internet of Thing, [Northeastern University](https://www.neu.edu.cn), 2013.9 ~ 2017.6
 
 
+Editor
+======
+* Members of the Youth Editorial Board of [Members of the Youth Editorial Board of The Knowledge Engineering Review](https://maxapress.com/ker)
+
 Internship
 ======
 
@@ -185,6 +189,7 @@ Co-author
 
 Peer Review
 ======
+* Area Chair of ARR Jan,2026
 * Program Committee of the AAAI 2025
 * Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence
 * Reviewer of Transactions on Knowledge Discovery from Data
