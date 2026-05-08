@@ -50,11 +50,16 @@ Selected Publications
 
 First Author
 ------
+* [2026] **StressEval: Failure-Driven Dynamic Benchmarking for Knowledge-Intensive Reasoning in Large Language Models**
+
+    **Yongrui Chen**, Yangyang Ma, Xiaoying Huang, Shenyu Zhang, Huajun Chen, Haofen Wang, Guilin Qi.
+    In *the 35th International Joint Conference on Artificial Intelligence,* (IJCAI'26) [[paper](https://arxiv.org/abs/2605.01939)]
+
 
 * [2025] **K-DeCore: Facilitating Knowledge Transfer in Continual Structured Knowledge Reasoning via Knowledge Decoupling**
 
     **Yongrui Chen**, Yi Huang, Yunchang Liu, Shenyu Zhang, Junhao He, Tongtong Wu, Guilin Qi, Tianxing Wu.
-    In *Thirty-seventh Annual Conference on Neural Information Processing Systems* (NeurIPS'25)* (NeurIPS'25) [[paper](https://arxiv.org/pdf/2509.16929)]
+    In *Thirty-seventh Annual Conference on Neural Information Processing Systems* (NeurIPS'25) [[paper](https://arxiv.org/pdf/2509.16929)]
 
 * [2025] **Pandora: Leveraging Code-driven Knowledge Transfer for Unified Structured Knowledge Reasoning**
 
