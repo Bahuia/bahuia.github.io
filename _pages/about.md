@@ -207,7 +207,7 @@ Peer Review
 
 Talks
 ======
-* 【Tutorial】 Unifying Large Language Models and Knowledge Graphs for Question Answering: Recent Advances and Opportunities, EDBT 2024 [[slides](../files/EDBT25_LLMKGQA_Yongrui-Part-3.pdf)]
+* 【Tutorial】 Unifying Large Language Models and Knowledge Graphs for Question Answering: Recent Advances and Opportunities, EDBT 2025 [[slides](../files/EDBT25_LLMKGQA_Yongrui-Part-3.pdf)]
 * 【Invited Presentation】Collaborative Solutions for Complex Task Reasoning Using Large Models and Knowledge Graphs, Huawei Autonomous Driving Network Technical Forum 2024 [[slides](../files/llm_kg.pdf)]
 * 【Tutorial】 Collaborative Enhancement of Knowledge Graphs and Large Language Models, CCKS-IJCKG 2024 [[slides](../files/llm+kg.pdf)]
 * 【Invited Presentation】Speaker of [OpenKG](http://openkg.cn) Seminar in May 2023 [[slides](../files/continual_text2SQL.pdf)]
