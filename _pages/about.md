@@ -50,6 +50,11 @@ Selected Publications
 
 First Author
 ------
+* [2026] **PANDORA: Leveraging Code-driven Knowledge Transfer for Unified Structured Knowledge Reasoning**
+
+    **Yongrui Chen**, Junhao He, Linbo Fu, Shenyu Zhang, Rihui Jin, Xinbang Dai, Jiaqi Li, Dehai Min, Nan Hu, Yuxin Zhang, Guilin Qi, Yi Huang, Tongtong Wu.
+    In *IEEE Transactions on Knowledge and Data Engineering* (TKDE) [[paper](https://arxiv.org/pdf/2508.17905?)]
+
 * [2026] **StressEval: Failure-Driven Dynamic Benchmarking for Knowledge-Intensive Reasoning in Large Language Models**
 
     **Yongrui Chen**, Yangyang Ma, Xiaoying Huang, Shenyu Zhang, Huajun Chen, Haofen Wang, Guilin Qi.
